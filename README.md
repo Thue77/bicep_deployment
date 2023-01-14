@@ -9,6 +9,8 @@ Template repo for deployment of Azure resources with bicep
 
 Note that it is possible to use the `-WhatIf` parameter for deployment, which lists the changes that would be deployed to.
 
+Please use the command `Get-Help <command>` to get info about a powershell command.
+
 
 
 ## Resources:
